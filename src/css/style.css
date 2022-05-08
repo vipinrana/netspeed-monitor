@@ -1,0 +1,9 @@
+html,
+body,* {
+  font-family: Fira Code;
+  color: #b5bbae;
+  cursor: pointer;
+  font-weight: 800;
+  font-size: 12px;
+  overflow: hidden;
+}

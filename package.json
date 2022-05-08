@@ -1,0 +1,22 @@
+{
+  "name": "netspeed-monitor",
+  "version": "1.0.0",
+  "description": "this app used to monitor the network speed",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "watch": "nodemon --exec electron .",
+    "build-win": "electron-packager . netspeed-monitor --overwrite --asar --platform=win32 --arch=x64 --icon='./src/images/icon.ico' --prune=true --out=build --version-string.FileDescription=CE --version-string.ProductName='Netspeed Monitor'"
+  },
+  "author": "vipin rana",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "16.0.8",
+    "electron-packager": "^15.5.1",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "electron-positioner": "^4.1.0",
+    "systeminformation": "^5.11.14"
+  }
+}
