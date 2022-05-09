@@ -16,8 +16,8 @@ After you click, you will see the below application, as show below
 Here, up arrow shows the uploading speed and down arrow shows the downloading speed.
 
 After application appears, right click on the application window you will see the menu.
-
 <p><img src="https://user-images.githubusercontent.com/21314953/167340153-7fa4c87c-1a5a-4c71-af2d-c379852c5826.png"></p>
+You can change the position of application based on your need.
 
 You won't see the application in taskbar. It will appear as the tray icon. Like below(Highlighted by orange border)
 <p><img src="https://user-images.githubusercontent.com/21314953/167340678-b5f8012a-a267-443c-834c-ab76d656336c.png"></p>
