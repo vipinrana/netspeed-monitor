@@ -25,4 +25,4 @@ You won't see the application in taskbar. It will appear as the tray icon. Like 
 To quit the app, right click on the app icon and click on close. As show below.
 <p><img src="https://user-images.githubusercontent.com/21314953/167340678-b5f8012a-a267-443c-834c-ab76d656336c.png"></p>
 
-> <b>Note:</b> Currently this app is in open beta pre release. So there might be you face some unexpected error like delay in opening app, multiple instance of app. Currently I tested this app in window 10 and later. Features like auto update not added. Please feel free to mail me at <a href="mailto:contact@decodebuzz.com">email</a>.
+> <b>Note:</b> Currently this app is in open beta pre release. So there might be you face some unexpected error like delay in opening app, multiple instance of app. Currently I tested this app in window 10 and later. Features like auto update not added. Please feel free to mail me at <a href="mailto:contact@decodebuzz.com">contact@decodebuzz.com</a>.
