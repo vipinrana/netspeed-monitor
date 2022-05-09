@@ -27,3 +27,5 @@ To quit the app, right click on the app icon and click on close. As show below.
 
 > <b>Note:</b> Currently this app is in open beta pre release. So there might be you face some unexpected error like delay in opening app, multiple instance of app. Currently I tested this app in window 10 and later. Features like auto update not added. Please feel free to mail me at <a href="mailto:contact@decodebuzz.com">contact@decodebuzz.com</a>.
 <p><i>Please star this repo if you like this app.</i></p>
+
+> Note: This project is under GNU General Public License.
