@@ -24,8 +24,8 @@ class NetworkSpeedMonitor {
 
         // call the BrowserWindow constructor to set the window
         this.mainWindow = new this.BrowserWindow({
-            width: 220,
-            height: 50,
+            width: 210,
+            height: 70,
             backgroundColor: '#2E3436',
             webPreferences: {
                 contextIsolation: true,
