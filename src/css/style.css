@@ -1,9 +1,20 @@
 html,
-body,* {
+body,
+* {
   font-family: Fira Code;
   color: #b5bbae;
   cursor: pointer;
   font-weight: 800;
-  font-size: 12px;
-  overflow: hidden;
+  font-size: 13px;
+  cursor: default;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+span.drag-selector {
+  position: absolute;
+  right: 10px;
+  font-size: 14px;
+  padding: 1px;
+  -webkit-app-region: drag;
 }

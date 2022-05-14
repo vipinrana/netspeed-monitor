@@ -5,12 +5,24 @@
     <meta charset="UTF-8">
     <title>NetSpeed Monitor</title>
     <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/font-awesome/css/font-awesome.min.css">
     <script defer src="./js/renderer.js"></script>
 </head>
 
 <body>
-    <div class="download-element" align="center">⬇️ 0 kb/s</div>
-    <div class="upload-element" align="center">⬆️ 0 kb/s</div>
+    <span class="drag-selector">
+        <i class="drag-icon fa fa-arrows" aria-hidden="true" alt="drag"></i>
+    </span>
+    <div class="net-content">
+        <div class="download-element">
+            <span class="download-label">Download</span>
+            <span class="download-content">0 kb/s</span>
+        </div>
+        <div class="upload-element">
+            <span class="upload-label">Upload</span>
+            <span class="upload-content">0 kb/s</span>
+        </div>
+    </div>
 </body>
 
 </html>
