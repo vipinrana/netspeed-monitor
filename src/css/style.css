@@ -15,13 +15,13 @@ div.drag-selector {
   right: 10px;
   font-size: 14px;
   padding: 1px;
-  -webkit-app-region: drag;
   float: left;
   width: 100%;
 }
 
 div.drag-selector .drag-icon {
   float: right;
+  -webkit-app-region: drag;
 }
 
 .down-up-label {
