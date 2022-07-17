@@ -4,9 +4,30 @@
 <p align="center">An app to monitor the netspeed</p>
 <hr/>
 
-### Motivation
+### ✊ Motivation
 I got this idea to create this app because I need something from which I can see the current netspeed. Due to pandemic, lots of people spending there time in system, so I thought why don't create an app which shows your current downloading and uploading speed in real time. 
-### How to use
+
+### ✨ Main features
+* Change the position of the window using predefined position like bottom-left, bottom-right, top-left, top-right. 
+* Drag the window by holding the drag icon.
+
+### ⚡ Installation
+There are two ways to run this application (1) using the NPM package and (2) using the .exe file.
+
+##### 📦 USING NPM
+
+first clone the repo and then run below command to install packages
+```bash
+npm install
+```
+
+and run below command
+```bash
+npm run watch
+```
+You will see a window popup in the bottom right corner.
+
+
 1. Go to the <a target="_blank" href="https://github.com/vipinrana/netspeed-monitor/releases">release link</a> 
 2. Download the netspeed-monitor.zip file and extract it.
 3. Now click on the netspeed-monitor.exe file.
