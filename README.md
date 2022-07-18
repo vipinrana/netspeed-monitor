@@ -10,6 +10,8 @@ I got this idea to create this app because I need something from which I can see
 ### ✨ Main features
 * Change the position of the window using predefined position like bottom-left, bottom-right, top-left, top-right. 
 * Drag the window by holding the drag icon.
+* App icon show in the hidden tray icons.
+* Quit option by right click on the app icon.
 
 ### ⚡ Installation
 There are two ways to run this application (1) using the NPM package and (2) using the .exe file.
