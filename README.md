@@ -27,7 +27,7 @@ npm run watch
 ```
 You will see a window popup in the bottom right corner.
 
-
+#### 🗃️ USING EXE FILE
 1. Go to the <a target="_blank" href="https://github.com/vipinrana/netspeed-monitor/releases">release link</a> 
 2. Download the netspeed-monitor.zip file and extract it.
 3. Now click on the netspeed-monitor.exe file.
